@@ -1,9 +1,8 @@
 <h3>About Myself</h3>
 
 - 👋 Hi, I’m Sasikumar
-- 😄 Pronouns: Dark_Coder.
 - 👀 I’m interested in Java Development and also Web Developement.
-- 🌱 I’m currently learning Full Stack Java Development.
+- 🌱 I’m currently learning Full Stack Web Development (MERN Stack).
 - 👨‍💻 Portfolio: https://sasifolio.web.app/index.html
 
  
